@@ -1,0 +1,7 @@
+base_url
+# datadog example
+https://app.datadoghq.com/dashboard/aaa-bbb-ccc/abcdefg?live=false&from_ts=START_TIMESTAMP&to_ts=END_TIMESTAMP
+# new relic example
+https://one.newrelic.com/launcher/nr1-core.explorer?XXXXXXXXXXXXXXXXXXXXXXXXXXXXX&platform[timeRange][begin_time]=START_TIMESTAMP&platform[timeRange][end_time]=END_TIMESTAMP
+# AWS RDS database insight
+https://ap-northeast-1.console.aws.amazon.com/rds/home?region=ap-northeast-1#performance-insights-v20206:/resourceId/db-ABCDEFG/resourceName/test-database/startTime/START_TIMESTAMP/endTime/END_TIMESTAMP
